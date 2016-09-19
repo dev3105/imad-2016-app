@@ -23,5 +23,7 @@ body {
 .test {
     font-family: Arial;
     color: red;
+    padding-right: 80px;
+    padding-left: 80px;
  }
 
